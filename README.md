@@ -53,4 +53,7 @@ Here is the added section on query optimization:
 
 
 ## Team
-Franci Branda-Chen, Aaron Wu, Hussain Zaidi, Jesse Zong
+- [Hussain Zaidi](https://github.com/hussainzs)
+- [Franci Branda-Chen](https://github.com/fbc101)
+- [Aaron Wu](https://github.com/AWU0626)
+- [Jesse Zong](https://github.com/dr-Jess)
