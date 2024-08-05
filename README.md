@@ -3,6 +3,11 @@
 ## Overview
 This project aims to assist users, particularly parents, in finding suitable schools, neighborhoods, and homes. It helps users make informed decisions when selecting a home to buy, with a strong emphasis on school quality and educational attainment history.
 
+## Links
+For the project running in full capacity and witness all the features click here: [LINK](https://drive.google.com/file/d/1U_66K9Zgolf7DMDR83Meo1PEv57RHHiP/view?usp=sharing)
+For the complete final report click here: [LINK](https://docs.google.com/document/d/1hIXL710XXs93rfPOFSCdwKtPiEw-qRJGr_MAmm2E8ko/edit?usp=sharing)
+For the backend API documentation click here: [Link](https://docs.google.com/document/d/11OKjgPpTvubzdrAtFBCJ9U2bMg5IjBwXOzVNkQEdbbc/edit?usp=sharing)
+
 ## Installation
 
 ### Server
